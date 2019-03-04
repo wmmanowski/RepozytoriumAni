@@ -1,4 +1,4 @@
-test
+test testowy
 druga linijka
-stworzenie trzeciej linijki
-dodanie czwartej linijki
+
+teraz to trzecia linijka
