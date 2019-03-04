@@ -1,4 +1,2 @@
-﻿test testowy
-druga linijka
-
+﻿
 teraz to trzecia linijka
