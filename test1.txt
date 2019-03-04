@@ -1,0 +1,4 @@
+test
+druga linijka
+stworzenie trzeciej linijki
+dodanie czwartej linijki
