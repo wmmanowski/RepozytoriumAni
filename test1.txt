@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 test testowy
 druga linijka
 
 teraz to trzecia linijka
+=======
+>>>>>>> parent of 9aa8717... dodanie zawartości do pierwszego pliku
